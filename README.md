@@ -31,33 +31,45 @@ As this course will take few time to complete, I will update the repository on t
 1. To make students understand the use of Python in Research.
 2. To teach the usage of python modules like **NumPy**, **Matplotlib**, **Pandas**, and **SymPy**.
 
-
 <br>
 The Course starts from September 24, 2022, and the first working week days are dedicated to learning basics of Python.
-<br>
-**Course** <br>
-1. Python Introduction (7 days)     <br>
-- Python Syntax    <br>
-- Data Types    <br>
-- Operators    <br>
-- Lists    <br>
-- Control statements    <br>
-- loops    <br>
-- functions    <br>
-- OOP: Python Class    <br>
-- Modules: NumPy, Matplotlib, Pandas &nbsp; <br>
 
-<br>
-2. NumPy (2 Days)     <br>
-- Data as lists, arrays, and tuples.    <br>
-- Find the average, stddev, quartiles, mode, etc. of the data.    <br>
 
-3. Matplotlib (2 Days)    <br>
-- Plotting data from lists in NumPy    <br>
-- Plot curves of polynomial functions, trigonometric functions, etc.    <br>
-- Plotting, labelling and scaling graphs in linear and log scales.    <br>
-- Plotting subplots.    <br>
-- Plotting scatter plots, bar charts, histograms, pie charts, etc.    <br>
+**Courses**:
 
-4. Pandas (4 days)    <br>
-- 
+
+1. Python Introduction (7 days)
+    - Python Syntax
+    - Data Types
+    - Operators
+    - Lists
+    - Control statements
+    - loops
+    - functions    
+    - OOP: Python Class   
+    - Modules: NumPy, Matplotlib, Pandas
+
+
+2. NumPy (2 days)
+    - Data as lists, arrays, and tuples.
+    - Find the average, stddev, quartiles, mode, etc. of the data.
+
+
+3. Matplotlib (2 days)
+    - Plotting Data from lists in NumPy.
+    - Plot curves of polynomial functions, trigonometriv functions, etc.
+    - Plotting subplots
+    - Plotting scatter plots, bar charts, histograms, pie charts, etc.
+
+4. Pandas (4 days)
+    - Read CSV
+    - Dataframes
+    - Analyzing Data
+    - Pandas Correlations
+    - Plotting Data
+
+5. SymPy (2 days)
+    - Defining Functions
+    - Derivatives
+    - Integrals
+    - Solving differential equations
