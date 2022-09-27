@@ -73,3 +73,6 @@ The Course starts from September 24, 2022, and the first working week days are d
     - Derivatives
     - Integrals
     - Solving differential equations
+
+
+### The files are uploaded day-wise learning and assignment in their respective folder.
