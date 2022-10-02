@@ -77,3 +77,12 @@ The Course starts from September 24, 2022, and the first working week days are d
 
 
 ### The files are uploaded day-wise learning and assignment in their respective folder.
+
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%201"> **Day - 1** </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%202"> **Day - 2** </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%203"> **Day - 3** </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%204"> **Day - 4** </a>
