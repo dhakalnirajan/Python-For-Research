@@ -24,7 +24,7 @@ As this course will take few time to complete, I will update the repository on t
 
 ### About NRCC
 
-**Nepal Research And Collaboration Centre** is a non-profit organization working to foster academia by conducting and promoting research and research-based learning at all academic levels. This program launched by NRCC is sto provide short training in the python programming language. This course is made available to the students to implement Python in the research and implement such learnings in the practice.
+**Nepal Research And Collaboration Centre** is a non-profit organization working to foster academia by conducting and promoting research and research-based learning at all academic levels. This program launched by NRCC is to provide short training in the python programming language. This course is made available to the students to implement Python in the research and implement such learnings in the practice.
 
 <br>
 
