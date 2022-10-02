@@ -4,7 +4,7 @@
 **Python For Research** is a Python Course For Data Science conducted by **Nepal Research and Collaboration Centre** (NRCC).
 
 
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-blue.svg)](https://GitHub.com/dhakalnirajan/Python-For-Research) &nbsp;  &nbsp;
+[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-336EF8.svg)](https://GitHub.com/dhakalnirajan/Python-For-Research) &nbsp;  &nbsp;
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-purple.svg)](https://github.com/dhakalnirajan/Python-For-Research/blob/main/License) <br>
 As this course will take few time to complete, I will update the repository on timely basis.
 <br>
