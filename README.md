@@ -76,13 +76,23 @@ The Course starts from September 24, 2022, and the first working week days are d
     - Solving differential equations
 
 
-### The files are uploaded day-wise learning and assignment in their respective folder.
+<hr>
 
+The files are uploaded based on the curriculum of the course in their respective folder.
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%201"> **Day - 1** </a>
+**Introduction  to Python Files:**
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%202"> **Day - 2** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%201"> **Introduction  to Python Day - 1** </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%203"> **Day - 3** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%202"> **Introduction  to Python Day - 2** </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%204"> **Day - 4** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%203"> **Introduction  to Python Day - 3** </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%204"> **Introduction  to Python Day - 4** </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%205"> **Introduction  to Python Day - 5** </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%206"> **Introduction  to Python Day - 6** </a>
+<br>
+
+**NumPy Files:**
