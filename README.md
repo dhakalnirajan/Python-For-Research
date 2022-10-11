@@ -206,19 +206,29 @@ The Course starts from September 24, 2022, and the first working week days are d
 
 The files are uploaded based on the curriculum of the course in their respective folder.
 
-**Introduction  to Python Files:**
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python"> **Introduction  to Python** </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%201"> **Introduction  to Python Day - 1** </a>
+### Files: 
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%202"> **Introduction  to Python Day - 2** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%201.ipynb"> Introduction  to Python - Day - 1 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%203"> **Introduction  to Python Day - 3** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%202.ipynb"> Introduction  to Python - Day - 2 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%204"> **Introduction  to Python Day - 4** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%203.ipynb"> Introduction  to Python - Day - 3 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%205"> **Introduction  to Python Day - 5** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%204.ipynb"> Introduction  to Python - Day - 4 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Day%20-%206"> **Introduction  to Python Day - 6** </a>
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%205.ipynb"> Introduction  to Python - Day - 5 </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%206.ipynb"> Introduction  to Python - Day - 6 </a>
 <br>
 
-**NumPy Files:**
+---
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Numpy"> **NumPy** </a>
+
+### Files:
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Numpy/Introduction_to_NumPy.ipynb"> Introduction to Numpy </a>
+
+<a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Numpy/N_Dimensional_Array.ipynb"> N-Dimensional Array in Numpy </a>
