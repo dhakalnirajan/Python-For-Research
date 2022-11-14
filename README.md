@@ -1,7 +1,7 @@
 
 # **Python For Research** by Nepal Research and Collaboration Centre
 
-**Python For Research** is a Python Course For Data Science conducted by **Nepal Research and Collaboration Centre** (NRCC).
+**Python For Research** is a Python Course For Research conducted by **Nepal Research and Collaboration Centre** (NRCC).
 
 <img src="https://camo.githubusercontent.com/3ee310b3be3534051b8f5e71de76fc0605dcd51e7196eae4ff08e109a523b70d/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43353632324151486164374b6c7662382d67772f6665656473686172652d736872696e6b5f323034385f313533362f302f313636333737383234343933343f653d3231343734383336343726763d6265746126743d633637484f7075366c5644455a65486f5173436f367a4951496e6d71353159683935706b437a5849776634" alt = "Python For Research" width = 500 height = 500>
 
@@ -200,35 +200,71 @@ The Course starts from September 24, 2022, and the first working week days are d
     * Matrix statistics: `.min(), .min(axis = 1), .min(axis = 0), .argmin(), .argmin(axis = 1), .argmin(axis = 0), np.unravel_index(),  `
     * How morden day images are created? with Example of opencv library
 
-
-
-
+---
 
 The files are uploaded based on the curriculum of the course in their respective folder.
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python"> **Introduction  to Python** </a>
+1. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python"> **Introduction  to Python** </a>
 
 ### Files: 
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%201.ipynb"> Introduction  to Python - Day - 1 </a>
+  1.a. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%201.ipynb"> Introduction  to Python - Day - 1 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%202.ipynb"> Introduction  to Python - Day - 2 </a>
+  1.b. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%202.ipynb"> Introduction  to Python - Day - 2 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%203.ipynb"> Introduction  to Python - Day - 3 </a>
+  1.c. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%203.ipynb"> Introduction  to Python - Day - 3 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%204.ipynb"> Introduction  to Python - Day - 4 </a>
+  1.d. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%204.ipynb"> Introduction  to Python - Day - 4 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%205.ipynb"> Introduction  to Python - Day - 5 </a>
+  1.e. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%205.ipynb"> Introduction  to Python - Day - 5 </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%206.ipynb"> Introduction  to Python - Day - 6 </a>
+  1.f. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Introduction%20To%20Python/Python%20For%20Research-%20Day%206.ipynb"> Introduction  to Python - Day - 6 </a>
 <br>
 
 ---
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Numpy"> **NumPy** </a>
+2. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Numpy"> **NumPy** </a>
 
 ### Files:
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Numpy/Introduction_to_NumPy.ipynb"> Introduction to Numpy </a>
+  2.a. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Numpy/Introduction_to_NumPy.ipynb"> Introduction to Numpy </a>
 
-<a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Numpy/N_Dimensional_Array.ipynb"> N-Dimensional Array in Numpy </a>
+  2.b. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Numpy/N_Dimensional_Array.ipynb"> N-Dimensional Array in Numpy </a>
+
+---
+
+3. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Matplotlib"> **Matplotlib** </a>
+
+### Files:
+
+  3.a. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Matplotlib/Introduction_to_Scientific_Plotting_Using_Matplotlib.ipynb"> Introduction To Scientific Plotting Using Matplotlib </a>
+
+  3.b. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Matplotlib/Advanced_Matplotlib.ipynb"> Advanced Matplotlib </a>
+
+---
+
+4. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Pandas"> **Pandas** </a>
+
+### Files:
+
+  4.a. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Pandas/Intro%20To%20Pandas%20Series.ipynb"> Introduction To Pandas Series </a>
+
+  4.b. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Pandas/Introduction%20to%20Pandas%20Dataframe.ipynb"> Introduction to Pandas DataFrame </a>
+
+  4.c. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Pandas/Groupby%20in%20pandas.ipynb"> Groupby In Pandas </a>
+
+  4.d. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Pandas/joins.ipynb"> Joins in Pandas </a>
+
+  4.e. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Pandas/loc%20and%20iloc.ipynb"> Loc And Iloc </a>
+
+---
+
+5. <a href="https://github.com/dhakalnirajan/Python-For-Research/tree/main/Sympy"> **Sympy** </a>
+  
+  5.a. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Sympy/Introduction%20to%20Sympy.ipynb"> Introduction To Sympy </a>
+  
+  5.b. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Sympy/Derivatives.ipynb"> Derivatives </a>
+  
+  5.c. <a href="https://github.com/dhakalnirajan/Python-For-Research/blob/main/Sympy/Integrals.ipynb"> Integrals </a>
+  
+---
