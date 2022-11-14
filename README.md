@@ -3,11 +3,11 @@
 
 **Python For Research** is a Python Course For Data Science conducted by **Nepal Research and Collaboration Centre** (NRCC).
 
+<img src="https://camo.githubusercontent.com/3ee310b3be3534051b8f5e71de76fc0605dcd51e7196eae4ff08e109a523b70d/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43353632324151486164374b6c7662382d67772f6665656473686172652d736872696e6b5f323034385f313533362f302f313636333737383234343933343f653d3231343734383336343726763d6265746126743d633637484f7075366c5644455a65486f5173436f367a4951496e6d71353159683935706b437a5849776634" alt = "Python For Research" width = 500 height = 500>
 
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-336EF8.svg)](https://GitHub.com/dhakalnirajan/Python-For-Research) &nbsp;  &nbsp;
+[![Maintainence Completed](https://img.shields.io/badge/Maintenance%20Level-Maintainence%20Completed-336EF8.svg)](https://GitHub.com/dhakalnirajan/Python-For-Research) &nbsp;  &nbsp;
 [![License](https://img.shields.io/badge/SoftwareLicense-GPLv3-blue.svg)](https://github.com/dhakalnirajan/Python-For-Research/blob/main/License) <br>
-As this course will take few time to complete, I will update the repository on timely basis.
-<br>
+
 
 # About Instructor
 <div id="badges" align="left">
