@@ -22,7 +22,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=orange) &nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=red) &nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=white) &nbsp;
-<a href="https://www.sympy.org/en/index.html"><img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="60" height="60">
+<a href="https://www.sympy.org/en/index.html"><img src="https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg" alt="SymPy" width="60" height="60"></a>
 <br>
 
 
